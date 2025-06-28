@@ -10,9 +10,9 @@ não podem começar com numeros
 nao podem conter espaços em branco
 não podem conter caracteres especiais, exceto o _
 Não podem conter palavras reservadas ao php */
-$nome = "Alana"; //sring
+$nome = "Joaquim"; //sring
 $idade = 16; //inteiro
-$altura = 1.64; //float
+$altura = 1.831; //float
 $peso = 45.8; //float
 $casado = false; //booleano
 $filhos = null; // nulo - sem valor definido
